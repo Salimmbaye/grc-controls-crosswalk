@@ -5,7 +5,7 @@ A multi-framework **security controls crosswalk** with a Python query tool. It m
 "enforce MFA," say — can be translated between them instantly.
 
 > Part of a three-project GRC portfolio. Companion to the
-> [fintech risk assessment](../grc-risk-assessment-fintech) (that project's report
+> [fintech risk assessment](https://github.com/Salimmbaye/risk-assessment-fintech) (that project's report
 > references this crosswalk for its control mappings).
 
 ---
